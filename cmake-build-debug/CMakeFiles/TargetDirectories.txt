@@ -1,0 +1,3 @@
+C:/Users/Tenth/CLionProjects/Garbage/cmake-build-debug/CMakeFiles/Garbage.dir
+C:/Users/Tenth/CLionProjects/Garbage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tenth/CLionProjects/Garbage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
